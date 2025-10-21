@@ -1,0 +1,5 @@
+{
+  "name": "3D Neon Snake",
+  "description": "A 3D Snake Game with a futuristic, neon aesthetic. Control a glowing snake to collect shiny orbs in a vibrant 3D grid world, aiming for the highest score.",
+  "requestFramePermissions": []
+}
